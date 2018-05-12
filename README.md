@@ -1,0 +1,2 @@
+# ethanhome.github.io
+blogs
